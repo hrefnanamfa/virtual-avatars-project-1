@@ -332,6 +332,15 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.vrunited.sdk": {
+      "version": "https://github.com/eventlab-projects/VRUnited_SDK.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.addressables": "1.18.19"
+      },
+      "hash": "480d2bee045daa18665606937884c995db3229fd"
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
